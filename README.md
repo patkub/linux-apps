@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Cool Linux Apps
 
-You can use the [editor on GitHub](https://github.com/patkub/linux-apps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Simple list of cool linux apps
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Packages
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+audacity
+default-jdk
+elementary-tweaks
+filezilla
+firefox
+freecad
+git
+gnome-system-monitor
+htop
+kazam
+librecad
+libreoffice
+linuxdcpp
+mpv
+nload
+neofetch
+openscad
+p7zip
+psensor
+qbittorrent
+qalculate
+screen
+snapd
+speedtest-cli
+steam
+texstudio
+tlp
+thunderbird
+xournalpp
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### snaps
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patkub/linux-apps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+sudo snap install blender --classic
+# vscode
+sudo snap install code --classic
+sudo snap install discord
+sudo snap install gimp
+sudo snap install intellij-idea-community --classic
+sudo snap install kdenlive
+sudo snap install krita
+# nodejs
+sudo snap install --edge node --classic
+sudo snap install pycharm-community --classic
+sudo snap install slack --classic
+sudo snap install vlc
+```
